@@ -18,9 +18,9 @@
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a passionate self-taught programmer from India.
-- 🔭 I’m currently working on improving programming skills 
-- 🌱 I’m currently learning advanced Data Structures 
-- 📫 How to reach me: satvik.gupta36@gmail.com <br>
+- 🔭 I’m 3nd year B.Tech Computer Science student at IIIT Kota with excellent academic record and keen interest in competitive programming and software development. 
+- 🌱 I’m currently learning Advanced Data Structures. 
+- 📫 How to reach me: satvik.gupta36@gmail.com 
 - 🥅 2020 Goals: Contribute more to Open Source projects, Solve 700 programming questions.
 
 
@@ -37,14 +37,12 @@ I am a passionate self-taught programmer from India.
 <code><img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Gupta&theme=radical&hide_langs_below=1&layout=compact" />
-  <br >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satvik-Gupta&show_icons=true&theme=radical&line_height=21%22%20alt=%22Ohidur%27s%20github%20stats"/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Gupta&theme=buefy&hide_langs_below=1&layout=compact" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satvik-Gupta&show_icons=true&theme=buefy&line_height=21%22%20alt=%22Ohidur%27s%20github%20stats"/>
 </p>
+<br>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<br />
-⚡ Fun fact <br>
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
