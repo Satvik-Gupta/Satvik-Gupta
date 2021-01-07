@@ -21,7 +21,7 @@ I am a passionate self-taught programmer from India.
 - 🔭 I’m 3nd year B.Tech Computer Science student at IIIT Kota with excellent academic record and keen interest in competitive programming and software development. 
 - 🌱 I’m currently learning Advanced Data Structures. 
 - 📫 How to reach me: satvik.gupta36@gmail.com 
-- 🥅 2020 Goals: Contribute more to Open Source projects, Solve 700 programming questions.
+- 🥅 2021 Goals: Contribute more to Open Source projects, Solve 700 programming questions.
 
 
 **Languages and Tools:** &nbsp;
