@@ -7,9 +7,6 @@
 <a href="https://www.codechef.com/users/satvikgupta144">
   <img align="left" alt="Satvik Gupta's CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />
 </a>
-<a href="https://codeforces.com/profile/satvik_gupta144">
-  <img align="left" alt="Satvik Gupta's Codeforces" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg" />
-</a>
 <a href="https://www.hackerearth.com/@satvik70">
   <img align="left" alt="Satvik Gupta's HackerEarth" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerearth.svg" />
 </a>
